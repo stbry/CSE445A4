@@ -1,0 +1,36 @@
+<Hotel>
+  <Hotel>
+    <Name>Motel 6</Name>
+    <Name>Motel Six Duplicate</Name>
+    <Phone>6022441155</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>214</Number>
+      <Street>44th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85034</Zip>
+    </Address>
+    <Rating>3.8</Rating>
+  </Hotel>
+  <Hotel>
+    <Name>Hyatt Place Tempe</Name>
+    <Phone>4802071578</Phone>
+    <Address>
+      <Number>601</Number>
+      <Street>E 6th St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Marriott Phoenix Resort</Name>
+    <Phone>6022259000</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>2000</Number>
+      <Street>W Westcourt Way</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+  </Hotel>
+</Hotel>
