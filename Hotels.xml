@@ -4,19 +4,19 @@
     <Name>Motel 6</Name>
     <Phone>6022441155</Phone>
     <Phone>6022441155</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>214</Number>
       <Street>44th St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85034</Zip>
     </Address>
-    <Rating>3.8</Rating>
+    <_Rating>3.8</_Rating>
   </Hotel>
   <Hotel>
     <Name>Hyatt Place Tempe</Name>
     <Phone>4802071578</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>601</Number>
       <Street>E 6th St</Street>
       <City>Phoenix</City>
@@ -27,31 +27,31 @@
   <Hotel>
     <Name>Marriott Phoenix Resort</Name>
     <Phone>6022259000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>2000</Number>
       <Street>W Westcourt Way</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85282</Zip>
     </Address>
-    <Rating>4.3</Rating>
+    <_Rating>4.3</_Rating>
   </Hotel>
   <Hotel>
     <Name>Legacy Golf Resort</Name>
     <Phone>6023055500</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>6808</Number>
       <Street>S 32nd St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85042</Zip>
     </Address>
-    <Rating>4.4</Rating>
+    <_Rating>4.4</_Rating>
   </Hotel>
   <Hotel>
     <Name>The Hermosa Inn</Name>
     <Phone>6029558614</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>5532</Number>
       <Street>N Palo Cristi Rd</Street>
       <City>Phoenix</City>
@@ -62,19 +62,19 @@
   <Hotel>
     <Name>Courtyard Phoenix Mesa Gateway</Name>
     <Phone>4803517088</Phone>
-    <Address NearestAirport="Mesa Gateway">
+    <Address _NearestAirport="Mesa Gateway">
       <Number>6907</Number>
       <Street>E Ray Rd</Street>
       <City>Mesa</City>
       <State>AZ</State>
       <Zip>85212</Zip>
     </Address>
-    <Rating>4.4</Rating>
+    <_Rating>4.4</_Rating>
   </Hotel>
   <Hotel>
     <Name>Four Points by Sheraton</Name>
     <Phone>4805792100</Phone>
-    <Address NearestAirport="Mesa Gateway">
+    <Address _NearestAirport="Mesa Gateway">
       <Number>6850</Number>
       <Street>E Williams Field Rd</Street>
       <City>Mesa</City>
@@ -85,19 +85,19 @@
   <Hotel>
     <Name>Woodspring Suites</Name>
     <Phone>6233878977</Phone>
-    <Address NearestAirport="Mesa Gateway">
+    <Address _NearestAirport="Mesa Gateway">
       <Number>7650</Number>
       <Street>S Power Rd</Street>
       <City>Gilbert</City>
       <State>AZ</State>
       <Zip>85297</Zip>
     </Address>
-    <Rating>3.3</Rating>
+    <_Rating>3.3</_Rating>
   </Hotel>
   <Hotel>
     <Name>Hampton Inn Queen Creek</Name>
     <Phone>4808887474</Phone>
-    <Address NearestAirport="Mesa Gateway">
+    <Address _NearestAirport="Mesa Gateway">
       <Number>20768</Number>
       <Street>E Maya Rd</Street>
       <City>Queen Creek</City>
@@ -115,6 +115,6 @@
       <State>AZ</State>
       <Zip>85209</Zip>
     </Address>
-    <Rating>4.4</Rating>
+    <_Rating>4.4</_Rating>
   </Hotel>
 </Hotels>
