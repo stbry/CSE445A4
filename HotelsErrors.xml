@@ -3,7 +3,6 @@
   <Hotel>
     <Name>Motel 6</Name>
     <Name>Duplicate Motel 6</Name>
-    <Phone>6022441155</Phone>
     <Address _NearestAirport="Sky Harbor">
       <Number>214</Number>
       <Street>44th St</Street>
