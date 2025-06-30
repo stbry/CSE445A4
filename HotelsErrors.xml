@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Hotel>
   <Hotel>
     <Name>Motel 6</Name>
-    <Name>Motel Six Duplicate</Name>
+    <Name>Duplicate Motel 6</Name>
     <Phone>6022441155</Phone>
     <Address _NearestAirport="Sky Harbor">
       <Number>214</Number>
