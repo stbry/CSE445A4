@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Hotels>
+<Hotels
+  xmlns="https://raidenison.github.io/CSE445A4"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="
+    https://raidenison.github.io/CSE445A4
+    https://raidenison.github.io/CSE445A4/Hotels.xsd">
   <Hotel>
     <Name>Motel 6</Name>
     <Phone>6022441155</Phone>
