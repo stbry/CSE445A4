@@ -1,3 +1,4 @@
+```
 Hotel.xml:
   Hotels were picked and inputted as such:
     - The first hotel has 2 phone numbers
@@ -12,3 +13,4 @@ HotelsError.xml:
     - 1st hotel has two names
 Hotels.xsd:
   Schema was created according to diagram, under the namespace for this repo.
+```
