@@ -108,7 +108,7 @@
   <Hotel>
     <Name>Residence Inn</Name>
     <Phone>4803739000</Phone>
-    <Address NearestAirport="Mesa Gateway">
+    <Address _NearestAirport="Mesa Gateway">
       <Number>10243</Number>
       <Street>E Hampton Ave</Street>
       <City>Mesa</City>
