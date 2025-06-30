@@ -3,14 +3,14 @@
     <Name>Motel 6</Name>
     <Name>Motel Six Duplicate</Name>
     <Phone>6022441155</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>214</Number>
       <Street>44th St</Street>
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85034</Zip>
     </Address>
-    <Rating>3.8</Rating>
+    <_Rating>3.8</_Rating>
   </Hotel>
   <Hotel>
     <Name>Hyatt Place Tempe</Name>
@@ -26,7 +26,7 @@
   <Hotel>
     <Name>Marriott Phoenix Resort</Name>
     <Phone>6022259000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address _NearestAirport="Sky Harbor">
       <Number>2000</Number>
       <Street>W Westcourt Way</Street>
       <City>Phoenix</City>
